@@ -1,0 +1,7 @@
+D:\Programming\C#\Class dan Project\Latihan 01\bin\Debug\Latihan 01.exe.config
+D:\Programming\C#\Class dan Project\Latihan 01\bin\Debug\Latihan 01.exe
+D:\Programming\C#\Class dan Project\Latihan 01\bin\Debug\Latihan 01.pdb
+D:\Programming\C#\Class dan Project\Latihan 01\obj\Debug\Latihan 01.csprojAssemblyReference.cache
+D:\Programming\C#\Class dan Project\Latihan 01\obj\Debug\Latihan 01.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Class dan Project\Latihan 01\obj\Debug\Latihan 01.exe
+D:\Programming\C#\Class dan Project\Latihan 01\obj\Debug\Latihan 01.pdb
